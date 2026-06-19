@@ -47,8 +47,3 @@ The generated report contains:
 * Automated report generation
 * Email notification system
 * Database integration
-
-## License
-
-This project is intended for educational purposes.
-
